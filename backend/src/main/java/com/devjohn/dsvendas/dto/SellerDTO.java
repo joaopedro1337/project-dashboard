@@ -2,6 +2,7 @@ package com.devjohn.dsvendas.dto;
 
 import java.io.Serializable;
 
+import com.devjohn.dsvendas.entities.Sale;
 import com.devjohn.dsvendas.entities.Seller;
 
 public class SellerDTO implements Serializable {
@@ -10,7 +11,7 @@ private static final long serialVersionUID = 1L;
 	private long id;
 	private String name;
 	
-	public SellerDTO() {
+	public SellerDTO(Sale x) {
 	}
 
 	public SellerDTO(long id, String name) {
