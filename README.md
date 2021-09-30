@@ -1,6 +1,6 @@
 ## 📂 Projeto Dashboard
 
-<img src="https://imgur.com/a/rAH2m5B" alt="Imagem">
+<img src="https://i.imgur.com/gzEEHJ6.png" alt="Imagem">
 
 ## 👨🏻‍💻 O que é este sistema?
 
