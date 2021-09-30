@@ -1,33 +1,21 @@
-## Projeto
+## 📂 Projeto Dashboard
 
-<img src="https://i.imgur.com/s3QgA5g.png" alt="Imagem">
+<img src="https://imgur.com/a/rAH2m5B" alt="Imagem">
 
-> O programa resume-se em um desafio da faculdade, o intuito era criar um programa de cálculo para filmes.
-> Usando a linguagem que estamos estudando, Linguagem C.
+## 👨🏻‍💻 O que é este sistema?
 
-## 💻 Pré-requisitos
+> O programa resume-se em um sistema DASHBOARD de vendas, onde é contabilizado as vendas em gráficos/tabelas em tempo real.
+Observação: Este projeto foi criado em um bootcamp da Escola DevSuperior. Total créditos ao professor, Nélio Alves.
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+## 💻 Tecnologias utilizadas:
 
-* Você deve instalar alguma IDE para rodar o programa. <Exemplos: / Dev-C++ / VScode / CodeBlocks / Eclipse.>
-* Você tem uma máquina <Windows / Linux / Mac>. Você precisará ter um desses SO instalado em sua máquina.
 
-## 🚀 Instalando <IDES>
+* JDK 11, Visual Studio Code;
+* Gerenciador de pacotes: NPM;
+* Deploy: Heroku; API Client: Postman;
+* IDE: Spring Tool Suite (STS);
+* Database: PostgreSQL e pgAdmin
+* Versionamento de código: Git
 
-Para instalar a IDE, siga estas etapas:
-
-Linux, macOS ou Windows:
-```
-<Link dos downloads das IDE:
-
-Dev-C++ : encurtador.com.br/BM359
-VScode : encurtador.com.br/ixUX7
-Codeblocks : encurtador.com.br/GHY38
-Eclipse : encurtador.com.br/ehsHO>
-```
-<Instalando sua IDE de preferência, selecione e use a linguagem C ou C++. >
-```
-## ☕ Usando o <programa>
-  ```
 
 
